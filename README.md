@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chatlxrdd
 - 👀 I’m interested in fashion
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m a Node.js developer
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me email: londoyt@gmail.com
 
